@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Parc le Duc]]></title>
+        <description><![CDATA[Parc le Duc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Jun 2016 18:33:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Parc Le Duc]]></title>
+            <description><![CDATA[<article><h1>Parc Le Duc</h1><p>Parc Le Duc is een vakantiepark onder Nederlands beheer en ligt in het zuiden van Frankrijk nabij Montpellier op nog geen 35 minuten rijden van de Middellandse Zee. Het terrein omvat 175 vakantieverblijven in particulier bezit waarvan een deel voor verhuur beschikbaar zijn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f90b123e7afca994c638287358201ced3a91b1d.jpg"></article>]]></description>
+            <link>http://www.parcleduc.nl/te-huur-profiel?DDTRQK</link>
+            <guid isPermaLink="false">9c865ee0-07b6-455f-b094-a435a48dc892</guid>
+            <pubDate>Tue, 14 Jun 2016 18:32:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
