@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Parc le Duc]]></title>
         <description><![CDATA[Parc le Duc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/parc-le-duc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 18:33:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 18:38:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/parc-le-duc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df970f25-22fd-48a6-973e-831795d47c44.jpg">]]></description>
+            <link>https://thegrid.ai/parc-le-duc/5dfdfec7-31ca-4ce1-901e-e28dd2f7fa01/index.html</link>
+            <guid isPermaLink="false">5dfdfec7-31ca-4ce1-901e-e28dd2f7fa01</guid>
+            <pubDate>Tue, 14 Jun 2016 18:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parc Le Duc]]></title>
             <description><![CDATA[<article><h1>Parc Le Duc</h1><p>Parc Le Duc is een vakantiepark onder Nederlands beheer en ligt in het zuiden van Frankrijk nabij Montpellier op nog geen 35 minuten rijden van de Middellandse Zee. Het terrein omvat 175 vakantieverblijven in particulier bezit waarvan een deel voor verhuur beschikbaar zijn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f90b123e7afca994c638287358201ced3a91b1d.jpg"></article>]]></description>
