@@ -16,10 +16,10 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://www.parcleduc.nl/te-huur-profiel?DDTRQK'
 title: Parc Le Duc
-datePublished: '2016-06-14T18:32:59.513Z'
-dateModified: '2016-06-14T18:32:39.257Z'
-starred: false
+datePublished: '2016-06-14T18:41:51.468Z'
+dateModified: '2016-06-14T18:41:51.249Z'
 sourcePath: _posts/2016-06-14-parc-le-duc.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
